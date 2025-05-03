@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Styverson!:
-<br>💻 I'm a passionate developer, tech enthusiast, and lifelong learner with a love for building clean, purposeful, and impactful code. <br>🎓 Currently studying Artificial Intelligence & Autonomous Systems and Cybersecurity & Cyberforensics!<br>🌏 Based in Singapore, and always on the lookout for new collaborations, open-source adventures, and learning opportunities.<br><br>🧠 Hobbies & Fun Facts<br><br>🎮 I enjoy strategic games and immersive JRPGs<br><br>🎧 I love sad, orchestral, indie music!<br><br>📚 I am passionate about Badminton🏸, Cycling🚲, F1 🏎️ and Flying✈️!<br><br>
+<br>💻 I'm a passionate developer, tech enthusiast, and lifelong learner with a love for building clean, purposeful, and impactful code. <br>🎓 Currently studying Artificial Intelligence & Autonomous Systems and Cyber-Security & Cyber-Forensics!<br>🌏 Based in Singapore, and always on the lookout for new collaborations, open-source adventures, and learning opportunities.<br><br>🧠 Hobbies & Fun Facts<br><br>🎮 I enjoy strategic games and immersive JRPGs<br><br>🎧 I love sad, orchestral, indie music!<br><br>📚 I am passionate about Badminton🏸, Cycling🚲, F1 🏎️ and Flying✈️!<br><br>
 
 
 # 💻 Tech Stack:
