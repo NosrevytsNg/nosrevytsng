@@ -1,9 +1,9 @@
+# 👋🏼 Hello World, I'm Styverson!
+
 <p align="center">
-  <img src="assets/IMG_7778.JPG" width="600" alt="Cozy Desk View"/>
+  <img src="./IMG_7778.JPG" style="width:100%; height:400px; object-fit: cover;" alt="Banner Image"/>
 </p>
 
-
-# 👋🏼 Hello World, I'm Styverson!
 <br>💻 I'm a passionate developer, tech enthusiast, and lifelong learner with a love for building clean, purposeful, and impactful code. <br>🎓 Currently studying Artificial Intelligence & Autonomous Systems and Cyber-Security & Cyber-Forensics!<br>🌏 Based in Singapore, and always on the lookout for new collaborations, open-source adventures, and learning opportunities.<br><br>🧠 Hobbies & Fun Facts<br><br>🎮 I enjoy strategic games and immersive JRPGs<br><br>🎧 I love sad, orchestral, indie music!<br><br>📚 I am passionate about Badminton🏸, Cycling🚲, F1 🏎️ and Flying✈️!<br><be>
 
 ###
